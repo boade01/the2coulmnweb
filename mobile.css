@@ -23,4 +23,15 @@
     .link-holder h4{
         margin: 0 0 20px 0;
     }
+
+    .thirdsection{
+        flex-direction: column-reverse;
+        gap: 30px;
+        align-items: center ;
+    }
+
+    footer{
+        gap: 20px;
+        text-align: center;
+    }
 }
