@@ -1,0 +1,8 @@
+.parent{
+    display: grid;
+}
+
+.child{
+    background: tomato;
+    padding: 20px;
+}
