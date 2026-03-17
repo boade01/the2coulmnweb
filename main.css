@@ -53,3 +53,31 @@
     justify-content: space-around;
     color: var(--white-colour);
 }
+
+
+/* Second Section Starts here */
+.secondsection{
+    display: flex;
+    padding: 50px 0;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.secondsection-left{
+    height: 400px;
+    width: 310px;
+    padding: 40px 25px;
+    background: var(--gray-colour);
+}
+.secondsection-left p{
+    margin-top: 15px;
+}
+.secondsection-right{
+    height: 460px;
+    width:340px;
+    margin-left: 30px;
+}
+.secondsection-right img{
+    width: 100%;
+    height: 100%;
+}
